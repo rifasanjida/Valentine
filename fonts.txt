@@ -1,0 +1,612 @@
+    font-family: 'Great Vibes', cursive;
+
+    font-family: 'Josefin Sans', sans-serif;
+
+    font-family: 'Open Sans', sans-serif;
+
+<i class="fa-regular fa-envelope"></i>
+
+<i class="fa-solid fa-earth-americas"></i>
+<i class="fa-brands fa-facebook-f"></i>
+<i class="fa-brands fa-twitter"></i>
+<i class="fa-brands fa-dribbble"></i>
+<i class="fa-brands fa-pinterest-p"></i>
+<i class="fa-brands fa-linkedin-in"></i>
+
+
+        <nav class="navbar navbar-expand-lg">
+      <div class="container">
+        <a class="navbar-brand" href="#">
+          <img src="images/logo.png" alt="logo.png">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav m-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link " aria-current="page" href="#">Home</a>
+              <img src="images/gallerylogo.png" alt="">
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">History</a>
+              <img src="images/gallerylogo.png" alt="">
+
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Gift</a>
+              <img src="images/gallerylogo.png" alt="">
+
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Gallery</a>
+              <img src="images/gallerylogo.png" alt="">
+
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Proposal</a>
+              <img src="images/gallerylogo.png" alt="">
+
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Contact</a>
+              <img src="images/gallerylogo.png" alt="">
+
+            </li>
+          
+          </ul>
+       <div class="login">
+          <a href="#"><i class="fa-solid fa-arrow-right-to-bracket"></i>Login/Register</a>
+       </div>
+        </div>
+      </div>
+    </nav>
+    <section id="banner">
+<div class="container">
+  <div class="row">
+      <div class="col-lg-6">
+          <div class="bannerimg">
+              <img src="images/cycle.png" alt="">
+          </div>
+      </div>
+      <div class="col-lg-6">
+          <div class="bannertxt text-center">
+              <h3>Happy</h3>
+              <h1>Valentine Day</h1>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+              <div class="bannerbtn">
+                  <a href="#">Send Gift/Proposal</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>
+    </section>
+    <section id="history">
+<div class="container">
+  <div class="row">
+      <div class="col-lg-6">
+          <div class="hisimg w-100 imgfluid">
+              <img src="images/album.png" alt="">
+          </div>
+      </div>
+      <div class="col-lg-6">
+          <div class="histxt">
+              <p class="ee">History of</p>
+              <h3>Valentine</h3>
+              <p class="aa">Saint Valentine (Italian: San Valentino, Latin: Valentinus), officially Saint Vaine of Terni, is a widely recognized third-century Roman saint commemorated on February 14 and since the High Middle Ages is associated with a tradition of courtly love. </p>
+              <p class="bb">All that is reliably known of the saint commemorated on February 14 is his name and that he was martyred and buried at a cemetery on the Via Flamiia close to the Ponte Milvio to the north of Rome on that day. It is uncertain whether St. Valentine is to be identified as one saint or the conflation of two saints of the same name. Several different martyrologies have been added to later hagiographies that are unreliable. Because so little is reliably known of him, in 1969 the Catholic Church removed his </p>
+          </div>
+      </div>
+  </div>
+</div>
+    </section>
+    <section id="gift">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-7">
+            <div class="gifttxt">
+              <p class="ee">Valentine
+               </p>
+              <h3> Gift & Proposal</h3>
+              <p class="aa">A gift or a present is an item given to someone without the expectation of payment or return. An item is not a gift, if that item, itself, is already owned by the one to whom it is given. Although gift-giving might involve an expeion of reciprocity, a gift is meant to be free.</p>
+              <p class="bb">In many countries, the act of mutually exchanging money, goods, etc. may sustain social relations and contribute to social cohesion. Economists have elaborated the economics of gift-giving into the notion of a gift economy.</p>
+            </div>
+            <div class="giftbtn">
+              <a href="#">Send Gift</a>
+              <a href="#">Send Proposal</a>
+            </div>
+          </div>
+          <div class="col-lg-5">
+            <div class="giftbox">
+              <img src="images/box.png" alt="" >
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="ticket">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="ticektimg text-center">
+              <img src="images/ticket.png" alt="">
+            </div>
+          </div>
+          <div class="col-lg-6 ">
+            <div class="tictxt  ">
+              <p class="ee">Valentine
+              </p>
+             <h3> 
+              Couple Ticket</h3>
+             <p class="aa">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.
+            </p>
+             <p class="bb">in reprehenderit in voluptate velit esse.cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia. deserunt </p>
+           </div>
+           <div class="ticbtn ">
+             <a href="#">Get Ticket</a>
+             <a href="#">Get Quoate</a>
+           </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="offer">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4">
+            <div class="offertxt">
+              <p class="ee">Valentine
+              </p>
+             <h3> 
+              Offers & Services</h3>
+             <p class="aa">Lorem ipsum dolor sit amet, consectetur adipisig elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
+            </p>
+             <p class="bb">
+              ullamco laboris nisi ut aliquip.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sedo. </p>
+            </div>
+          </div>
+         
+          <div class="col-lg-4">
+            <div class="offeritm">
+            
+              
+                <h3> <i class="fa-solid fa-music"></i>Romantic Music</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adisig elit, sed do eiusmod tempor incidt ut amar ambore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+              
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="offeritm">
+            
+              
+                <h3> <i class="fa-solid fa-music"></i>Romantic Music</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adisig elit, sed do eiusmod tempor incidt ut amar ambore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+              
+            </div>
+          </div>
+          <div class="col-lg-4 offset-lg-4">
+            <div class="offeritm ">
+            
+             
+                <h3> <i class="fa-solid fa-music"></i>Romantic Music</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adisig elit, sed do eiusmod tempor incidt ut amar ambore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+              
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="offeritm ">
+            
+              
+                <h3> <i class="fa-solid fa-music"></i>Romantic Music</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adisig elit, sed do eiusmod tempor incidt ut amar ambore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+             
+            </div>
+          </div>
+       
+        </div>
+        
+      </div>
+    </section>
+
+
+
+
+
+
+
+
+    
+
+
+
+style.css
+Who has access
+
+System properties
+Type
+Style Sheet
+Size
+9 KB
+Storage used
+9 KB
+Location
+css
+Owner
+Junaed Hossain
+Modified
+Aug 28, 2022 by Junaed Hossain
+Opened
+7:58 PM by me
+Created
+7:42 PM
+No description
+Viewers can download
+/* all comon css */
+*{
+    margin: 0;padding: 0;
+    outline: 0;
+    box-sizing: 0;
+}
+a,a:hover{
+    text-decoration: none;
+    display: inline-block;
+}
+h1,h2,h3,h4,h5,h5,h6,p{
+    margin: 0;
+    padding: 0;
+    line-height: 0.8;
+}
+ul,ol{
+    list-style-type: none;
+}
+img{
+    vertical-align: middle;
+}
+/* all comon css */
+/* header part start */
+.navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    width: 100%;
+}
+
+.nav-link {
+color: #100f10;
+font-size: 16px;
+font-weight: 500;
+font-family: 'Josefin Sans', sans-serif;
+transition: .6s;
+}
+
+.nav-item{
+    padding: 0px 5px;
+    position: relative;
+}
+.nav-item:hover .nav-link{
+    color: #d8195c;
+}
+.nav-item img{
+    position: absolute;
+    bottom: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+    visibility: hidden;
+    opacity: 0;
+    transition: .6s;
+}
+.nav-item:hover img{
+    visibility: visible;
+    opacity: 1;
+}
+.login a{
+padding: 10px 20px;
+background: #d50a51;
+border-radius: 30px;
+color: #fff;
+font-size:20px ;
+font-weight: 400;
+font-family: 'Josefin Sans', sans-serif;
+}
+/* header part end */
+#banner{
+    padding-top : 130px ; 
+    background: url(../images/banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+   
+.bannertxt h3{
+padding-top: 140px;
+font-size: 61px;
+font-weight: 500;
+font-family: 'Josefin Sans', sans-serif;
+color: #8a5e3b;
+
+}
+.bannertxt h1{
+    font-size: 84px;
+font-weight: 400;
+font-family: 'Great Vibes';
+color: #d50a51;
+}
+.bannertxt p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #737373;
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+.bannertxt a{
+    padding: 15px 20px;
+   border: 1px solid #d50a51; 
+   border-radius: 30px;
+   color: #d50a51;
+   font-size:20px ;
+   font-weight: 600;
+   font-family: 'Josefin Sans', sans-serif;
+
+}
+#history{
+    padding-top: 95px;
+    background: #fff;
+    
+}
+.histxt p.ee{
+font-size: 24px;
+font-weight: 600;
+color:#666666 ;
+font-family: 'Josefin Sans', sans-serif;
+padding-bottom: 10px;
+padding-left: 50px;
+}
+.histxt p.aa {
+    font-size: 16px;
+    font-weight: 400;
+    color:#444444 ;
+    font-family: 'Open Sans', sans-serif;
+    padding-bottom: 35px;
+    line-height: 26px;
+    }
+    .histxt p.bb {
+        font-size: 16px;
+        font-weight: 400;
+        color:#444444 ;
+        font-family: 'Open Sans', sans-serif;
+    line-height: 26px;
+
+        }
+        .histxt h3{
+            font-size: 32px;
+            font-weight: 600;
+            color:#d50a51 ;
+            font-family: 'Josefin Sans', sans-serif;
+            padding-bottom: 60px;
+padding-left: 50px;
+
+        }
+#gift{
+   background: #fffae2;
+}
+.gifttxt{
+    margin-top: 90px;
+   
+}
+.gifttxt p.ee{
+    font-size: 24px;
+    font-weight: 600;
+    color:#666666 ;
+    font-family: 'Josefin Sans', sans-serif;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    }
+    .gifttxt p.aa {
+        font-size: 16px;
+        font-weight: 400;
+        color:#444444 ;
+        font-family: 'Open Sans', sans-serif;
+        padding-bottom: 35px;
+        line-height: 26px;
+        }
+        .gifttxt p.bb {
+            font-size: 16px;
+            font-weight: 400;
+            color:#444444 ;
+            font-family: 'Open Sans', sans-serif;
+        line-height: 26px;
+        padding-bottom: 30px;
+    
+            }
+            .gifttxt h3{
+                font-size: 32px;
+                font-weight: 600;
+                color:#d50a51 ;
+                font-family: 'Josefin Sans', sans-serif;
+                padding-bottom: 60px;
+    padding-left: 50px;} 
+    .giftbtn{
+        margin-bottom: 80px;
+    }
+    .giftbtn a{
+        padding: 10px 20px;
+        border: 1px solid #d50a51;
+        border-radius: 30px;
+        color: #d50a51;
+        font-size: 20px;
+        font-weight: 600;
+        font-family: 'Josefin Sans', sans-serif;
+        transition: .6s;
+    }   
+    .giftbtn a:hover{
+        color: #fff;
+        background: #d50a51;
+    } 
+    .giftbox{
+        position: relative;
+    }
+    .giftbox img{
+position: absolute;
+left: 50%;
+top: -110px;
+transform: translateX(-50%);
+width: 120%;
+    }
+    .ticektimg{
+        margin-top: 120px;
+        margin-bottom: 110px;
+    }  
+    .ticektimg img{
+        width: 100%;
+    }
+    .tictxt{
+        margin-top: 90px;
+        text-align: right;
+    }
+    .tictxt p.ee{
+        font-size: 24px;
+        font-weight: 600;
+        color:#666666 ;
+        font-family: 'Josefin Sans', sans-serif;
+        padding-bottom: 10px;
+        padding-left: 50px;
+        }
+        .tictxt p.aa {
+            font-size: 16px;
+            font-weight: 400;
+            color:#444444 ;
+            font-family: 'Open Sans', sans-serif;
+            padding-bottom: 35px;
+            line-height: 26px;
+            }
+            .tictxt p.bb {
+                font-size: 16px;
+                font-weight: 400;
+                color:#444444 ;
+                font-family: 'Open Sans', sans-serif;
+            line-height: 26px;
+            padding-bottom: 30px;
+        
+                }
+                .tictxt h3{
+                    font-size: 32px;
+                    font-weight: 600;
+                    color:#d50a51 ;
+                    font-family: 'Josefin Sans', sans-serif;
+                    padding-bottom: 60px;
+        padding-left: 50px;} 
+        .ticbtn a{
+            padding: 10px 20px;
+            border: 1px solid #d50a51;
+            border-radius: 30px;
+            color: #d50a51;
+            font-size: 20px;
+            font-weight: 600;
+            font-family: 'Josefin Sans', sans-serif;
+            transition: .6s;
+            text-align: right;
+        }   
+        .ticbtn a:hover{
+            color: #fff;
+            background: #d50a51;
+        } 
+        .ticbtn{
+            text-align: right;
+        }  
+        #offer{
+            padding: 50px 0;
+            color: #fef6fa;
+            background: url(../images/2banne.jpg);
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+        .offertxt{
+            margin-top: 90px;
+        }
+        .offertxt p.ee{
+            font-size: 24px;
+            font-weight: 600;
+            color:#666666 ;
+            font-family: 'Josefin Sans', sans-serif;
+            padding-bottom: 10px;
+            padding-left: 50px;
+            }
+            .offertxt p.aa {
+                font-size: 16px;
+                font-weight: 400;
+                color:#444444 ;
+                font-family: 'Open Sans', sans-serif;
+                padding-bottom: 35px;
+                line-height: 26px;
+                }
+                .offertxt p.bb {
+                    font-size: 16px;
+                    font-weight: 400;
+                    color:#444444 ;
+                    font-family: 'Open Sans', sans-serif;
+                line-height: 26px;
+                padding-bottom: 30px;
+            
+                    }
+                    .offertxt h3{
+                        font-size: 32px;
+                        font-weight: 600;
+                        color:#d50a51 ;
+                        font-family: 'Josefin Sans', sans-serif;
+                        padding-bottom: 60px;
+            padding-left: 50px;} 
+            
+
+    .offeritm h3{
+       
+            font-size: 20px;
+            font-weight: 600;
+            color:#d50a51 ;
+            font-family: 'Josefin Sans', sans-serif; 
+            padding-top: 70px;
+           
+    }  
+
+    .offeritm h3 i{
+        color:#d50a51 ;
+        font-size: 50px;
+        padding-right: 10px;
+        padding-bottom: 20px;
+        padding-top: 30px;
+    }
+    .offeritm p {
+        font-size: 16px;
+        font-weight: 400;
+        color:#444444 ;
+        font-family: 'Open Sans', sans-serif;
+       padding-right:100px;
+        line-height: 26px;
+        }
+        .border{
+            height: 220px;
+            width: 3px;
+            background:#d50a51 ;
+           top: 230px;
+           left: 100%;
+           transform: translateY(-100%);
+            visibility: hidden;
+            opacity: 0;
+            position: absolute;
+        }
+        .offeritm:hover{
+            background: #f1f1f1;
+        }
+        .offeritm:hover .border{
+            visibility: visible;
+            opacity: 1;
+        }
+        .offeritm{
+            position: relative;
+        }
